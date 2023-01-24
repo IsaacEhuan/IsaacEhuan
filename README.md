@@ -1,5 +1,13 @@
 <div>
-  <h1 align="center"> Hi there 👋, I'm Isaac <</h1>
+  <h1 align="center"> Hi there!! 👋, I'm Isaac </h1>
+  <h3 align="center"> A passionate software engineer student from Merida, Mexico. </h3>
+  <h3 align> About Me: </h3>
+  <h5 align> - 🔭 I’m currently working on ...
+             - 🌱 I’m currently learning: DevOps and continious integration
+             - 👯 I’m looking to collaborate on ...
+             - 🤔 I’m looking for help with: Linux OS
+             - 💬 Ask me about ...
+             - 😄 Pronouns: He/They (EL/Elle) </h5>
 </div>  
 <!--
 **IsaacEhuan/IsaacEhuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- PROGRAMING LANGUAGES
 -->
