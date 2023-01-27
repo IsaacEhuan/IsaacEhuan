@@ -1,14 +1,27 @@
 <div>
   <h1 align="center"> Hi there!! 👋, I'm Isaac </h1>
   <h3 align="center"> A passionate software engineer student from Merida, Mexico. </h3>
-  <h3 align> About Me: </h3>
-  <h5 align> - 🔭 I’m currently working on ...
-             - 🌱 I’m currently learning: DevOps and continious integration
-             - 👯 I’m looking to collaborate on ...
-             - 🤔 I’m looking for help with: Linux OS
-             - 💬 Ask me about ...
-             - 😄 Pronouns: He/They (EL/Elle) </h5>
-</div>  
+</div> 
+
+---
+### About me:
+- 🔭 I’m currently studying the sixth semester of college.
+- 🌱 I’m currently learning: DevOps and continious integration, Linux OS
+- 🤔 I’m looking for help with: Linux OS
+- 💬 Languages: Spanish(Native), English(B2)
+- 😄 Pronouns: He/They
+
+---
+<div>
+  <h3> Languages & Tools: </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
+</div> 
 <!--
 **IsaacEhuan/IsaacEhuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
