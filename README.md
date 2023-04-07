@@ -6,7 +6,7 @@
 ---
 ### About me:
 - 🔭 I’m currently studying the sixth semester of college.
-- 🌱 I’m currently learning: DevOps and continious integration, Linux OS
+- 🌱 I’m currently learning: Docker, Jenkins, Linux OS, express.
 - 🤔 I’m looking for help with: Linux OS
 - 💬 Languages: Spanish(Native), English(B2)
 - 😄 Pronouns: He/They
