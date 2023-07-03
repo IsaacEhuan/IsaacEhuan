@@ -5,7 +5,7 @@
 
 ---
 ### About me:
-- 🔭 I’m currently studying the sixth semester of college.
+- 🔭 I’m currently studying the seventh semester of college.
 - 💬 Languages: Spanish(Native), English(B2)
 - 😄 Pronouns: He/They
 
