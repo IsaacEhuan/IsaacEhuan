@@ -5,7 +5,8 @@
 
 ---
 ### About me:
-- 🔭 I’m currently studying the seventh semester of college.
+- 🔭 I’m currently studying software engineer.
+- 🌱 I’m currently learning artificial intelligence, artificial neural networks & mobile device engineering.
 - 💬 Languages: Spanish(Native), English(B2)
 - 😄 Pronouns: He/They
 
@@ -19,6 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />&nbsp;
 </div> 
 <!--
 **IsaacEhuan/IsaacEhuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
