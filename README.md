@@ -1,12 +1,12 @@
 <div>
   <h1 align="center"> Hi there!! 👋, I'm Isaac </h1>
-  <h3 align="center"> A passionate software engineer student from Merida, Mexico. </h3>
+  <h3 align="center"> A passionate software engineer from Merida, Mexico. </h3>
 </div> 
 
 ---
 ### About me:
-- 🔭 I’m currently studying software engineer.
-- 🌱 I’m currently learning artificial intelligence, artificial neural networks & mobile device engineering.
+- 🔭 I’m a software engineer major.
+- 🌱 I’m currently learning springboot and microservices.
 - 💬 Languages: Spanish(Native), English(B2)
 - 😄 Pronouns: He/They
 
